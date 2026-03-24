@@ -24,8 +24,8 @@
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/cutarev/projeto-oraculo.git
-cd projeto-oraculo
+git clone https://github.com/cutarev/CutarevOraculo.git
+cd CutarevOraculo
 ```
 
 ### 2. Instale as dependências
