@@ -41,6 +41,7 @@ Copie o arquivo de exemplo e adicione suas chaves:
 ```bash
 cp .env.example .env
 ```
+(Windows)
 
 ```CMD (Windows)
 copy .env.example .env
@@ -60,6 +61,7 @@ OPENAI_API_KEY=sua_chave_aqui  # opcional
 ```bash
 streamlit run oraculo_page.py
 ```
+(Windows)
 
 ```CMD (Windows)
 py -m streamlit run oraculo_page.py
