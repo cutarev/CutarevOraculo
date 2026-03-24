@@ -1,0 +1,29 @@
+# Interface
+streamlit
+
+# Dados
+pandas
+openpyxl
+
+# LangChain
+langchain-core
+langchain-groq
+langchain-openai
+
+# Utilitários
+python-dotenv
+pydantic
+requests
+
+# Web scraping
+beautifulsoup4
+fake_useragent
+
+# Busca na web
+duckduckgo-search
+
+# YouTube
+youtube_transcript_api
+
+# Gráficos
+matplotlib

@@ -1,0 +1,33 @@
+# Ambiente virtual
+.venv/
+venv/
+env/
+
+# Variáveis de ambiente (chaves de API)
+.env
+.env.local
+.env.*.local
+
+# Claude Code
+.claude/
+
+# Dados carregados pelo usuário
+*.csv
+*.xlsx
+*.xls
+Documents/
+oraculo/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
