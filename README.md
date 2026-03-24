@@ -4,6 +4,8 @@
 
 ---
 
+<img width="1869" height="922" alt="{86AD0236-1483-42F4-AD9C-5D69C062CB68}" src="https://github.com/user-attachments/assets/163dbdb9-8ac6-49c2-a207-c4099b74334f" />
+
 ## ✨ Funcionalidades
 
 - 📊 **Análise de CSV e XLSX** — faça perguntas em linguagem natural sobre seus dados
